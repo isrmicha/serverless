@@ -1,0 +1,17 @@
+{
+  "name": "Serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "jest": "^24.9.0"
+  }
+}
